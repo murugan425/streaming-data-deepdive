@@ -16,7 +16,7 @@
     "dateformat": "^1.0.12",
     "es6-promise": "^3.0.2",
     "express-ws": "^1.0.0-rc.2",
-    "fbjs": "^0.6.1",
+    "fbjs": "^0.8.18",
     "file-loader": "^0.8.5",
     "google-map-react": "^0.20.0",
     "install": "^0.8.1",

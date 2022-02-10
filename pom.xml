@@ -72,7 +72,7 @@
       <dependency>
         <groupId>com.github.akarnokd</groupId>
         <artifactId>rxjava2-jdk8-interop</artifactId>
-        <version>0.2.6</version>
+        <version>0.3.7</version>
         <exclusions>
           <exclusion>
             <groupId>org.reactivestreams</groupId>

@@ -17,7 +17,7 @@
     "es6-promise": "^3.0.2",
     "express-ws": "^1.0.0-rc.2",
     "fbjs": "^0.6.1",
-    "file-loader": "^0.8.5",
+    "file-loader": "^6.0.0",
     "google-map-react": "^0.20.0",
     "install": "^0.8.1",
     "isomorphic-fetch": "^2.2.1",
@@ -42,7 +42,7 @@
     "redux-logger": "^2.6.1",
     "redux-thunk": "^1.0.0",
     "superagent": "1.4.0",
-    "url-loader": "^0.5.7",
+    "url-loader": "^4.0.0",
     "whatwg-fetch": "^0.10.1",
     "ws": "^1.0.1",
     "vertx3-eventbus-client": "3.5.0"

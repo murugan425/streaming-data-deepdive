@@ -41,11 +41,11 @@
     "redux-devtools": "^2.1.5",
     "redux-logger": "^2.6.1",
     "redux-thunk": "^1.0.0",
-    "superagent": "1.4.0",
+    "superagent": "3.6.1",
     "url-loader": "^0.5.7",
     "whatwg-fetch": "^0.10.1",
     "ws": "^1.0.1",
-    "vertx3-eventbus-client": "3.5.0"
+    "vertx3-eventbus-client": "3.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
